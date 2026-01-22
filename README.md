@@ -13,7 +13,7 @@ I am on my journey to become a professional Data Analyst, focusing on building s
 
 ---
 
-### 🚧 Working in Progress (Dự án đang ấp ủ)
+### 🚧 Working in Progress
 
 #### 💰 [Automated Investment Portfolio]
 *A personal finance tracker for long-term investment goals (VESAF/VFF funds).*
@@ -24,8 +24,8 @@ I am on my journey to become a professional Data Analyst, focusing on building s
 ---
 
 ### 📈 GitHub Stats
-![Ao Minh Tam's GitHub stats](https://github-readme-stats.vercel.app/api?AOMINHTAM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_CUA_BAN&layout=compact&theme=radical)
+![Ao Minh Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOMINHTAM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOMINHTAM&layout=compact&theme=radical)
 
 ---
 *Thanks for visiting! Let's connect and share knowledge.*
