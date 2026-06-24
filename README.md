@@ -1,26 +1,26 @@
 # Hi there, I'm Ao Minh Tâm 👋
-### 🎓 A 2nd-year Student passionate about Data Analytics & Engineering
+### 🎓 3rd-year IT Student | Aspiring Data Engineer & Analyst
 
-I am on my journey to become a professional Data Analyst, focusing on building solid foundations in Programming, Database Management, and Statistical Analysis.
+I am a third-year Information Technology student focusing on the Modern Data Stack (MDS). I bridge the gap between Data Engineering (building robust ELT pipelines) and Data Analytics (extracting business insights).
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Python 🐍 (NumPy, Pandas), SQL 🗄️, Java ☕.
-* **Data Visualization:** Power BI 📊, Modern Excel (Power Query).
-* **Core Knowledge:** Probability & Statistics (XSTK), Data Structures & Algorithms.
-* **Currently Learning:** Data Warehousing & Business Intelligence concepts.
+* **Orchestration & Data Ops:** Apache Airflow 🌬️, Docker 🐳, Git/GitHub 🐙.
+* **Data Warehouse & Transformation:** Snowflake ❄️, dbt-core 🔨.
+* **Languages:** SQL 🗄️, Python 🐍 (NumPy, Pandas), Java ☕.
+* **Data Visualization & BI:** Power BI 📊, Modern Excel (Power Query).
+* **Core Foundations:** Data Structures & Algorithms, Probability & Statistics.
 
 ---
 
-### 🚧 Working in Progress
+### 🚀 Featured Projects
 
-#### 💰 [Automated Investment Portfolio]
-*A personal finance tracker for long-term investment goals (VESAF/VFF funds).*
-* **Goal:** Tracking Net Asset Value (NAV) & analyzing compound interest for Financial Freedom by 2031.
-* **Tech Stack:** Python (ETL Automation), Excel.
-* **Status:** 🏗️ *In Development*
-
+#### ❄️ [Airflow dbt Snowflake Retail Data Pipeline](https://github.com/AOMINHTAM/dbt-snowflake-data-pipeline)
+*A production-ready ELT Data Pipeline orchestrating dbt transformations inside Snowflake via Apache Airflow.*
+* **Core Architecture:** Decoupled storage/compute layer (Snowflake) and orchestration layer (Airflow via Astronomer Cosmos).
+* **Data Modeling:** Designed a Medallion Architecture (Staging -> Marts) leveraging `dbt_utils` for optimized BI readiness.
+* **DevOps Best Practices:** Runs dbt within an isolated Python virtual environment inside Docker containers; fully optimized `.gitignore` and schema access boundaries (`FUTURE PRIVILEGES`).
 ---
 
 ### 📈 GitHub Stats
@@ -28,4 +28,4 @@ I am on my journey to become a professional Data Analyst, focusing on building s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AOMINHTAM&layout=compact&theme=radical)
 
 ---
-*Thanks for visiting! Let's connect and share knowledge.*
+*Thanks for visiting! Let's connect, collaborate, and build something awesome together.*
