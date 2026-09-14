@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ao_Minh_Tam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ao-minh-t%C3%A2m-bb0a6b337/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-F59E0B?style=flat&logo=google-chrome&logoColor=white)]([https://github.com/AOMINHTAM](https://portfolio-data-analytics-rust.vercel.app/
-))
+)
 [![Credential](https://img.shields.io/badge/dbt_Labs-Verified_Credential-FF694B?style=flat&logo=dbt&logoColor=white)](https://credentials.getdbt.com/daf3523f-38ca-48fe-9b95-548d6ca7da8d)
 [![Gmail](https://img.shields.io/badge/Email-aominhtam%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aominhtam@gmail.com)
 
