@@ -66,11 +66,8 @@ I am an Information Technology student specializing in **Analytics Engineering**
 ### 📈 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AOMINHTAM&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AOMINHTAM&theme=radical&hide_border=true&color=f59e0b&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AOMINHTAM&show_icons=true&theme=radical&hide_border=true&title_color=f59e0b&icon_color=f59e0b&count_private=true" alt="Ao Minh Tam's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AOMINHTAM&layout=compact&theme=radical&hide_border=true&title_color=f59e0b&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 ---
