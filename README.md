@@ -66,8 +66,11 @@ I am an Information Technology student specializing in **Analytics Engineering**
 ### 📈 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AOMINHTAM&show_icons=true&theme=radical&hide_border=true&title_color=f59e0b&icon_color=f59e0b" alt="Ao Minh Tam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOMINHTAM&layout=compact&theme=radical&hide_border=true&title_color=f59e0b" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AOMINHTAM&show_icons=true&theme=radical&hide_border=true&title_color=f59e0b&icon_color=f59e0b&count_private=true" alt="Ao Minh Tam's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AOMINHTAM&theme=radical&hide_border=true&stroke=0000&background=141321&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b" alt="Ao Minh Tam's Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOMINHTAM&layout=compact&theme=radical&hide_border=true&title_color=f59e0b&hide=html,css" alt="Top Languages" width="60%" />
 </p>
 
 ---
