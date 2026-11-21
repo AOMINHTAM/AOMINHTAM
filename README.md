@@ -21,10 +21,12 @@ I am a **Third-Year IT Undergraduate** (2024 – Expected 2028) at Ho Chi Minh C
 
 ---
 
-### 📜 Verified Credentials
+### 📜 Credentials & Training
 
 * 🏅 **[dbt Fundamentals — Verified Credential](https://credentials.getdbt.com/daf3523f-38ca-48fe-9b95-548d6ca7da8d)** — *Issued by dbt Labs (Credential ID: `daf3523f-38ca-48fe-9b95-548d6ca7da8d`)*  
   *Verified course completion credential demonstrating core competency in modular SQL models, incremental materializations, automated schema/data quality testing, and DAG lineage documentation using dbt Core and dbt Cloud.*
+* 🎓 **[AI Career Readiness Training — Certificate of Completion](https://aominhtam-portfolio.vercel.app/images/certs/asean_ai_career_readiness.jpg)** — *Organised by ASEAN Foundation, supported by LinkedIn (`ASEAN Ahead`, Nov 2026)*  
+  *Certificate of Completion for structured training in practical AI fluency, prompt workflows, and digital career readiness.*
 
 ---
 
